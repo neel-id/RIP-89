@@ -1,0 +1,8 @@
+{
+  "name": "one-team-one-fight",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "python3 -m http.server 3000"
+  }
+}
