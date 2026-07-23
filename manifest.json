@@ -1,0 +1,17 @@
+{
+  "name": "One Team, One Fight",
+  "short_name": "One Fight",
+  "description": "A retro arcade Space Invaders-style game for JC Herrera and CrowdStrike.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#e01b2e",
+  "icons": [
+    {
+      "src": "/falcon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
